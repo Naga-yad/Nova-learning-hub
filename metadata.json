@@ -1,0 +1,8 @@
+{
+  "name": "NOVA Smart Learning",
+  "description": "A modern, engaging student platform featuring AI support, live sessions with automated attendance, and progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
